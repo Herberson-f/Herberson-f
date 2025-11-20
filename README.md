@@ -1,8 +1,7 @@
 # 👋 Olá! Bem-vindo ao meu perfil
 
 ## 💻 Sobre mim  
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse nas áreas de **dados e tecnologia**. Facilidade para aprender novas ferramentas e explorar diferentes soluções.
-Gosto de transformar ideias em projetos práticos e de utilizar a tecnologia como forma de resolver problemas e gerar impacto positivo.
+#### Sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse nas áreas de **dados e tecnologia**. Facilidade para aprender novas ferramentas e explorar diferentes soluções. Gosto de transformar ideias em projetos práticos e de utilizar a tecnologia como forma de resolver problemas e gerar impacto positivo.
 
 ---
 
@@ -35,5 +34,5 @@ Gosto de transformar ideias em projetos práticos e de utilizar a tecnologia com
 
 ---
 
-⭐ *Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e trocar ideias sobre tecnologia e desenvolvimento.*
+### ⭐ *Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e trocar ideias sobre tecnologia e desenvolvimento.*
 
